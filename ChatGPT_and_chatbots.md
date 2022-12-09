@@ -6,3 +6,5 @@
   On the other hand, there might be various disadvantages in adding functionalities to them. Each functionality could be used for the opposite power to people. AI can be used as a hack tool, or AI directly can be hackable. Therefore, if AI and chatbots grow uncontrollably and rapidly, there could be come out security vulnerabilities which might come up with terrible consequences. Their use in war is the most deadly consequence.
 
 
+[Medium Link](https://medium.com/@erenxcolakx/chatgpt-and-future-of-chatbots-b8220bcf71ec)
+[patika.dev/erenxcolakx](https://app.patika.dev/erenxcolakx)
