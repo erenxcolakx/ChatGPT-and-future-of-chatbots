@@ -7,4 +7,5 @@
 
 
 [Medium Link](https://medium.com/@erenxcolakx/chatgpt-and-future-of-chatbots-b8220bcf71ec)
+
 [patika.dev/erenxcolakx](https://app.patika.dev/erenxcolakx)
